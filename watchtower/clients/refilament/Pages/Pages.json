@@ -1,0 +1,169 @@
+{
+  "theme": {
+    "backgroundColour": "green",
+    "textColour": "gray",
+    "navTextColour": "white",
+    "navHooverColour": "green"
+  },
+  "pages": [
+    {
+      "id": "home",
+      "title": "Welcome to ReFilament",
+      "intro": " At ReFilament, we’re committed to revolutionising the 3D printing industry with sustainable solutions. By recycling waste plastic and transforming it into high-quality filament, plastic sheets, and injection-moulded products, we’re reducing plastic waste one print at a time. Explore how our services can power your creations responsibly and efficiently.",
+      "description": "Our custom 3D printing service offers high-quality, precise printing for any object you need. You provide the model, and we bring it to life with a range of materials and finishes. Perfect for prototypes, functional parts, or creative projects.",
+      "image": "/images/recycle.png",
+      "alt": "Sustainable 3D Printing",
+      "items": [
+        {
+          "title": "Recycling Service",
+          "icon": "ArrowPathIcon",
+          "description": "Join our mission to recycle failed prints and plastic waste. We turn your materials into new, high-quality filament and products, reducing environmental impact."
+        },
+        {
+          "title": "3D Printing Service",
+          "icon": "PrinterIcon",
+          "description": "Discover our high-quality 3D printing services, from prototype to production. Our range of materials and precision ensure reliable, stunning results."
+        },
+        {
+          "title": "Custom Finishing",
+          "icon": "PaintBrushIcon",
+          "description": "Give your creations a unique touch with our custom finishing options, including polishing, painting, hydro-dipping, and vinyl wrapping."
+        }
+      ]
+    },
+    {
+      "id": "about",
+      "title": "About ReFilament",
+      "intro": " Welcome to ReFilament! Our mission is to drive sustainability in the 3D printing world by transforming waste plastic into valuable materials for new creations. We believe that innovative solutions are key to reducing plastic waste, and we’re dedicated to making the 3D printing industry more eco-friendly, one filament spool at a time.",
+      "description": "",
+      "image": "/images/About-Us.png",
+      "items": [
+        {
+          "title": "Who are we?",
+          "icon": "ArrowPathIcon",
+          "description": "At ReFilament, we specialise in recycling failed prints, repurposing them into filament, plastic sheets, and injection-moulded products."
+        },
+        {
+          "title": "Passionate For Recycling",
+          "icon": "HeartIcon",
+          "description": "Our team is passionate about up-cycling and finding creative ways to give materials a second chance."
+        },
+        {
+          "title": "Join the Community",
+          "icon": "BuildingOffice2Icon",
+          "description": "Join us in rethinking what’s possible with recycled plastic. Let’s build a sustainable future together, one print at a time."
+        }
+      ]
+    },
+    {
+      "id": "services",
+      "title": "ReFilament Services",
+      "intro": "At ReFilament, we offer a range of services to help you bring your ideas to life sustainably. From recycling waste plastics to advanced finishing options, we are here to support your needs.",
+      "description": "",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1731519870/Services_w3yuxd.png",
+      "items": [
+        {
+          "id": "replenishment",
+          "title": "Recycle Your Waste (Subscription Only)",
+          "icon": "RecyclingIcon",
+          "description": "Give your failed prints a new purpose. Our subscription-based recycling service processes waste plastic into new, usable filament, sheets, and moulded products."
+        },
+        {
+          "id": 2,
+          "title": "3D Modelling",
+          "icon": "CubeIcon",
+          "description": "From concept to creation, our 3D modelling services help bring your ideas to life, setting a strong foundation for successful 3D printing or manufacturing."
+        },
+        {
+          "id": 3,
+          "title": "3D Printing",
+          "icon": "PrinterIcon",
+          "description": "High-quality 3D printing for prototypes and products. With flexible options, we deliver reliable, high-quality prints to match your specifications."
+        },
+        {
+          "id": 4,
+          "title": "Plastic Injection Moulding",
+          "icon": "CogIcon",
+          "description": "High-volume output with consistent quality, perfect for durable parts. We handle design, material selection, and production for efficient manufacturing."
+        },
+        {
+          "id": 5,
+          "title": "Hydro Dipping",
+          "icon": "BeakerIcon",
+          "description": "Add unique patterns and textures to your parts. Hydro dipping offers intricate designs, making each piece stand out with a custom look."
+        },
+        {
+          "id": 6,
+          "title": "Vinyl Wrapping",
+          "icon": "DocumentIcon",
+          "description": "Enhance your parts with custom colors, textures, and finishes. Ideal for branding or personalisation, vinyl wrapping adds a professional touch."
+        },
+        {
+          "id": 7,
+          "title": "Vacuum Forming",
+          "icon": "ChipIcon",
+          "description": "Perfect for lightweight, high-strength parts. Vacuum forming is ideal for custom enclosures, protective covers, and other functional components."
+        }
+      ]
+    },
+    {
+      "id": "webservices",
+      "title": "ReFilament Web Services",
+      "intro": "Are you a 3D printing enthusiast looking to showcase your work, connect with others, or share your unique creations online? Imagine having a simple, clean, and customisable website—tailored to your needs, easy to update, and visually stunning.",
+      "description": "With ReFilament Web Services, building your own 3D printing portfolio site has never been easier. Our platform offers simplicity with powerful customisation, allowing you to focus on your creations without the hassle of complicated setups.",
+      "image": "/images/WebServices.png",
+      "items": [
+        {
+          "title": "Simple Yet Powerful Design",
+          "description": "Built with Tailwind CSS and Vue.js, your site combines simplicity with a responsive, modern layout that can be easily styled to match your brand or personality.",
+          "icon": "PaintBrushIcon"
+        },
+        {
+          "title": "Fully Customisable Content",
+          "description": "Our sites are powered by JSON data, allowing you to add, edit, or remove content effortlessly.",
+          "icon": "PencilIcon"
+        },
+        {
+          "title": "Rich Features for Creators",
+          "description": "With gallery support, dynamic image sliders, and space to share your latest prints, highlight what you do best in style.",
+          "icon": "PhotoIcon"
+        },
+        {
+          "title": "Flexible Hosting Options",
+          "description": "Host your site wherever works best for you—on Vercel, GitHub Pages, or your own preferred platform.",
+          "icon": "ServerIcon"
+        },
+        {
+          "title": "Get Started Today",
+          "description": "If you’re interested in a website that grows with your creativity, reach out to learn more or dive in.",
+          "icon": "PlayIcon"
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Contact Refilament",
+      "intro": "We’d love to hear from you! Whether you have a question about our services, need support, or want to discuss a custom project, we’re here to help. Reach out to us on Facebook for quick responses, give us a call for immediate assistance, or drop us an email for detailed inquiries. Our team is dedicated to providing the information and support you need to make your 3D printing and recycling experience with us as seamless as possible.",
+      "description": "",
+      "image": "/images/Services.png",
+      "alt": "Refilament Services",
+      "items": [
+        {
+          "title": "Email",
+          "icon": "DevicePhoneMobileIcon",
+          "description": "me@gerryghall.co.uk"
+        },
+        {
+          "title": "Phone",
+          "icon": "PhoneIcon",
+          "description": "07704689537"
+        },
+        {
+          "title": "Facebook",
+          "icon": "PresentationChartBarIcon",
+          "description": "https://www.facebook.com/refilamentstore"
+        }
+      ]
+    }
+  ]
+}
