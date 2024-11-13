@@ -1,0 +1,16 @@
+[
+  {
+    "src": "https://res.cloudinary.com/dbtpdq01o/image/upload/v1731518923/cld-sample-5.jpg",
+    "title": "Image 1",
+    "description": "This is a description for Image 1.",
+    "alt": "A sample image of Image 1",
+    "tags": ["3d printing", "example"]
+  },
+  {
+    "src": "https://res.cloudinary.com/dbtpdq01o/image/upload/v1731518923/cld-sample-3.jpg",
+    "title": "Image 2",
+    "description": "This is a description for Image 2.",
+    "alt": "A sample image of Image 2",
+    "tags": ["3d printing", "demo"]
+  }
+]
