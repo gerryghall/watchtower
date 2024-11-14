@@ -16,17 +16,17 @@
       "items": [
         {
           "title": "Recycling Service",
-          "icon": "IconInboxArrowDown",
+          "icon": "IconRecycling",
           "description": "Join our mission to recycle failed prints and plastic waste. We turn your materials into new, high-quality filament and products, reducing environmental impact."
         },
         {
           "title": "3D Printing Service",
-          "icon": "IconInboxArrowDown",
+          "icon": "Icon3Dprinter",
           "description": "Discover our high-quality 3D printing services, from prototype to production. Our range of materials and precision ensure reliable, stunning results."
         },
         {
           "title": "Custom Finishing",
-          "icon": "IconInboxArrowDown",
+          "icon": "IconTooling",
           "description": "Give your creations a unique touch with our custom finishing options, including polishing, painting, hydro-dipping, and vinyl wrapping."
         }
       ]
