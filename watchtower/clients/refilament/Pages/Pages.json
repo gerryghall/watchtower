@@ -40,7 +40,7 @@
       "items": [
         {
           "title": "Who are we?",
-          "icon": "ArrowPathIcon",
+          "icon": "IconRecycling",
           "description": "At ReFilament, we specialise in recycling failed prints, repurposing them into filament, plastic sheets, and injection-moulded products."
         },
         {
@@ -65,7 +65,7 @@
         {
           "id": "prod_OKUv1TFhzUU0n9",
           "title": "Recycle Your Waste (Subscription Only)",
-          "icon": "RecyclingIcon",
+          "icon": "IconRecycling",
           "description": "Give your failed prints a new purpose. Our subscription-based recycling service processes waste plastic into new, usable filament, sheets, and moulded products."
         },
         {
@@ -89,13 +89,13 @@
         {
           "id": 5,
           "title": "Hydro Dipping",
-          "icon": "BeakerIcon",
+          "icon": "HydroDipping",
           "description": "Add unique patterns and textures to your parts. Hydro dipping offers intricate designs, making each piece stand out with a custom look."
         },
         {
           "id": "prod_RDHnbM3GmMOrLo",
           "title": "Vinyl Wrapping",
-          "icon": "DocumentIcon",
+          "icon": "IconVinyl",
           "description": "Enhance your parts with custom colors, textures, and finishes. Ideal for branding or personalisation, vinyl wrapping adds a professional touch."
         },
         {
