@@ -45,12 +45,12 @@
         },
         {
           "title": "Passionate For Recycling",
-          "icon": "HeartIcon",
+          "icon": "IconSupport",
           "description": "Our team is passionate about up-cycling and finding creative ways to give materials a second chance."
         },
         {
           "title": "Join the Community",
-          "icon": "BuildingOffice2Icon",
+          "icon": "IconCommunity",
           "description": "Join us in rethinking what’s possible with recycled plastic. Let’s build a sustainable future together, one print at a time."
         }
       ]
@@ -71,19 +71,19 @@
         {
           "id": "prod_OW988jmJdYKRmE",
           "title": "3D Modelling",
-          "icon": "CubeIcon",
+          "icon": "Incon3D",
           "description": "From concept to creation, our 3D modelling services help bring your ideas to life, setting a strong foundation for successful 3D printing or manufacturing."
         },
         {
           "id": "prod_OJSjBQoelVBURn",
           "title": "3D Printing",
-          "icon": "PrinterIcon",
+          "icon": "Icon3Dprinter",
           "description": "High-quality 3D printing for prototypes and products. With flexible options, we deliver reliable, high-quality prints to match your specifications."
         },
         {
           "id": 4,
           "title": "Plastic Injection Moulding",
-          "icon": "CogIcon",
+          "icon": "IconEcosystem",
           "description": "High-volume output with consistent quality, perfect for durable parts. We handle design, material selection, and production for efficient manufacturing."
         },
         {
