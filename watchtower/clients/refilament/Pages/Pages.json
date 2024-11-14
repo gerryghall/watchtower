@@ -63,19 +63,19 @@
       "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1731519870/Services_w3yuxd.png",
       "items": [
         {
-          "id": "replenishment",
+          "id": "prod_OKUv1TFhzUU0n9",
           "title": "Recycle Your Waste (Subscription Only)",
           "icon": "RecyclingIcon",
           "description": "Give your failed prints a new purpose. Our subscription-based recycling service processes waste plastic into new, usable filament, sheets, and moulded products."
         },
         {
-          "id": 2,
+          "id": "prod_OJSjBQoelVBURn",
           "title": "3D Modelling",
           "icon": "CubeIcon",
           "description": "From concept to creation, our 3D modelling services help bring your ideas to life, setting a strong foundation for successful 3D printing or manufacturing."
         },
         {
-          "id": 3,
+          "id": "prod_OJSjBQoelVBURn",
           "title": "3D Printing",
           "icon": "PrinterIcon",
           "description": "High-quality 3D printing for prototypes and products. With flexible options, we deliver reliable, high-quality prints to match your specifications."
@@ -93,13 +93,13 @@
           "description": "Add unique patterns and textures to your parts. Hydro dipping offers intricate designs, making each piece stand out with a custom look."
         },
         {
-          "id": 6,
+          "id": "prod_RDHnbM3GmMOrLo",
           "title": "Vinyl Wrapping",
           "icon": "DocumentIcon",
           "description": "Enhance your parts with custom colors, textures, and finishes. Ideal for branding or personalisation, vinyl wrapping adds a professional touch."
         },
         {
-          "id": 7,
+          "id": "prod_OJSjBQoelVBURn",
           "title": "Vacuum Forming",
           "icon": "ChipIcon",
           "description": "Perfect for lightweight, high-strength parts. Vacuum forming is ideal for custom enclosures, protective covers, and other functional components."
