@@ -3,7 +3,8 @@
     "backgroundColour": "green",
     "textColour": "gray",
     "navTextColour": "white",
-    "navHooverColour": "green"
+    "navHooverColour": "green",
+    "pageBackGroundColour": "green"
   },
   "pages": [
     {
