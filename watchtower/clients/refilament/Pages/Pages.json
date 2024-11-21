@@ -72,7 +72,7 @@
         {
           "id": "prod_OW988jmJdYKRmE",
           "title": "3D Modelling",
-          "icon": "Incon3D",
+          "icon": "Icon3D",
           "description": "From concept to creation, our 3D modelling services help bring your ideas to life, setting a strong foundation for successful 3D printing or manufacturing."
         },
         {
@@ -90,7 +90,7 @@
         {
           "id": 5,
           "title": "Hydro Dipping",
-          "icon": "HydroDipping",
+          "icon": "IconHydroDipping",
           "description": "Add unique patterns and textures to your parts. Hydro dipping offers intricate designs, making each piece stand out with a custom look."
         },
         {
