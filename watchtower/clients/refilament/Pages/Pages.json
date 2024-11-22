@@ -37,7 +37,7 @@
       "title": "About ReFilament",
       "intro": " Welcome to ReFilament! Our mission is to drive sustainability in the 3D printing world by transforming waste plastic into valuable materials for new creations. We believe that innovative solutions are key to reducing plastic waste, and we’re dedicated to making the 3D printing industry more eco-friendly, one filament spool at a time.",
       "description": "",
-      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1731519866/Contact-Us_opyfya.png",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_green,b_rgb:262c35/v1731519858/About-Us_q0wc3q.png",
       "items": [
         {
           "title": "Who are we?",
@@ -61,7 +61,7 @@
       "title": "ReFilament Services",
       "intro": "At ReFilament, we offer a range of services to help you bring your ideas to life sustainably. From recycling waste plastics to advanced finishing options, we are here to support your needs.",
       "description": "",
-      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1731519870/Services_w3yuxd.png",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_green,b_rgb:262c35/v1731519870/Services_w3yuxd.png",
       "items": [
         {
           "id": "prod_OKUv1TFhzUU0n9",
@@ -146,7 +146,7 @@
       "title": "Contact Refilament",
       "intro": "We’d love to hear from you! Whether you have a question about our services, need support, or want to discuss a custom project, we’re here to help. Reach out to us on Facebook for quick responses, give us a call for immediate assistance, or drop us an email for detailed inquiries. Our team is dedicated to providing the information and support you need to make your 3D printing and recycling experience with us as seamless as possible.",
       "description": "",
-      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1731519866/Contact-Us_opyfya.png",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_green,b_rgb:262c35/v1731519866/Contact-Us_opyfya.png",
       "alt": "Refilament Services",
       "items": [
         {
