@@ -1,18 +1,11 @@
 {
-  "theme": {
-    "backgroundColour": "green",
-    "textColour": "gray",
-    "navTextColour": "white",
-    "navHooverColour": "green",
-    "pageBackGroundColour": "white"
-  },
   "pages": [
     {
       "id": "home",
       "title": "Welcome to ReFilament",
       "intro": " At ReFilament, we’re committed to revolutionising the 3D printing industry with sustainable solutions. By recycling waste plastic and transforming it into high-quality filament, plastic sheets, and injection-moulded products, we’re reducing plastic waste one print at a time. Explore how our services can power your creations responsibly and efficiently.",
       "description": "Our custom 3D printing service offers high-quality, precise printing for any object you need. You provide the model, and we bring it to life with a range of materials and finishes. Perfect for prototypes, functional parts, or creative projects.",
-      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1731519869/recycle_uq8tqf.png",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_green,b_rgb:262c35/v1731519869/recycle_uq8tqf.png",
       "alt": "Sustainable 3D Printing",
       "items": [
         {
