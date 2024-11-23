@@ -1,25 +1,29 @@
 {
   "pages": [
     {
-      "id": "home",
-      "title": "Welcome to Your 3D Printing Gallery",
-      "intro": "",
-      "description": "",
-      "image": "",
-      "alt": "",
-      "items": [
-        {
-          "title": "Elegant Desgin",
-          "icon": "",
-          "description": ""
-        },
-        {
-          "title": "Easy Use",
-          "icon": "",
-          "description": ""
-        }
-      ]
+  "id": "home",
+  "title": "Welcome to Your 3D Printing Gallery",
+  "intro": "Empowering 3D printing enthusiasts with a platform to showcase their creations, connect with the community, and elevate their passion.",
+  "description": "",
+  "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/v1731519866/Your3DPrintingGallery_HomePage.png",
+  "items": [
+    {
+      "title": "Your Creative Hub",
+      "icon": "LightBulbIcon",
+      "description": "Explore a personalised space to showcase your 3D-printed projects, from unique designs to technical marvels."
     },
+    {
+      "title": "Seamless Integration",
+      "icon": "LinkIcon",
+      "description": "Enjoy an integrated platform with features like a gallery, Stripe payments, and a user-friendly interface."
+    },
+    {
+      "title": "Connect and Inspire",
+      "icon": "ChatBubbleLeftRightIcon",
+      "description": "Join a thriving community of makers, share ideas, and find inspiration for your next big creation."
+    }
+  ]
+},
     {
   "id": "about",
   "title": "About Your 3D Printing Gallery",
