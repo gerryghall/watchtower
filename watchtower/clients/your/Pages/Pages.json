@@ -21,30 +21,40 @@
       ]
     },
     {
-      "id": "about",
-      "title": "About Your 3D Printing Gallery",
-      "intro": " Welcome to ReFilament! Our mission is to drive sustainability in the 3D printing world by transforming waste plastic into valuable materials for new creations. We believe that innovative solutions are key to reducing plastic waste, and we’re dedicated to making the 3D printing industry more eco-friendly, one filament spool at a time.",
-      "description": "",
-      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1731519866/Contact-Us_opyfya.png",
-      "items": [
-        {
-          "title": "Who are we?",
-          "icon": "ArrowPathIcon",
-          "description": "At ReFilament, we specialise in recycling failed prints, repurposing them into filament, plastic sheets, and injection-moulded products."
-        },
-        {
-          "title": "Passionate About Development",
-          "icon": "HeartIcon",
-          "description": "Our team is passionate about up-cycling and finding creative ways to give materials a second chance."
-        },
-        {
-          "title": "Join the Community",
-          "icon": "BuildingOffice2Icon",
-          "description": "Join us in rethinking what’s possible with recycled plastic. Let’s build a sustainable future together, one print at a time."
-        }
-      ]
+  "id": "about",
+  "title": "About Your 3D Printing Gallery",
+  "intro": "Welcome to Your 3D Printing Gallery! We empower 3D printing enthusiasts with a dynamic platform to showcase their creations, manage projects, and engage with the community. Our mission is to make hosting and sharing your 3D printing journey seamless and enjoyable.",
+  "description": "At Your 3D Printing Gallery, we combine cutting-edge serverless technology with beautiful, customisable designs to support your creativity and passion for 3D printing.",
+  "image": "https://res.cloudinary.com/demo/image/upload/v1617994763/3dprinting_gallery_about_us.png",
+  "items": [
+    {
+      "title": "Our Mission",
+      "icon": "GlobeAltIcon",
+      "description": "To provide a hassle-free platform for 3D printing enthusiasts to create and showcase their personal or business galleries."
     },
     {
+      "title": "Customisable Pages",
+      "icon": "AdjustmentsHorizontalIcon",
+      "description": "Your gallery, your way. Easily customise pages like About, Services, and Contact to match your unique style and needs."
+    },
+    {
+      "title": "Integrated Stripe Payments",
+      "icon": "CreditCardIcon",
+      "description": "Easily monetise your creations with secure Stripe payment integration for your products or services."
+    },
+    {
+      "title": "Community Support",
+      "icon": "UsersIcon",
+      "description": "Engage with like-minded enthusiasts and share knowledge, inspiration, and tips to grow the 3D printing community."
+    },
+    {
+      "title": "Sleek & Scalable Technology",
+      "icon": "CloudIcon",
+      "description": "Powered by serverless technology for lightning-fast performance and scalability as your gallery grows."
+    }
+  ]
+},
+  {
       "id": "services",
       "title": "Your 3D Printing Gallery Services",
       "intro": "Are you a 3D printing enthusiast looking to showcase your work, connect with others, or share your unique creations online? Imagine having a simple, clean, and customisable website—tailored to your needs, easy to update, and visually stunning.",
