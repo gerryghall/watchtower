@@ -158,6 +158,36 @@
           "description": "https://www.facebook.com/refilamentstore"
         }
       ]
+    },
+    {
+      "id": "about-plastic-identification",
+      "title": "Plastic Identification SVGs",
+      "intro": "At ReFilament, we believe in promoting sustainable practices in 3D printing. Our new plastic identification SVGs make it easy for enthusiasts to label their prints, helping ensure proper recycling and material identification.",
+      "description": "These SVGs are designed for 3D printing enthusiasts to integrate into their prints, making the material type easily identifiable. By marking your prints, you contribute to better recycling practices and sustainability in the 3D printing community.",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/v1731519869/refilament-identification.png",
+      "alt": "Plastic Identification SVGs for 3D Printing",
+      "items": [
+        {
+          "title": "PLA (Polylactic Acid)",
+          "icon": "IconPLA",
+          "description": "Label your biodegradable PLA prints with this SVG for easy identification and proper disposal."
+        },
+        {
+          "title": "ABS (Acrylonitrile Butadiene Styrene)",
+          "icon": "IconABS",
+          "description": "Use this SVG to mark your durable ABS prints, ensuring they are clearly recognised."
+        },
+        {
+          "title": "ASA (Acrylonitrile Styrene Acrylate)",
+          "icon": "IconASA",
+          "description": "Identify your UV-resistant ASA prints with our dedicated SVG, designed for clarity and visibility."
+        },
+        {
+          "title": "HIPS (High-Impact Polystyrene)",
+          "icon": "IconHIPS",
+          "description": "Mark your HIPS prints with this SVG, supporting better recycling and material awareness."
+        }
+      ]
     }
   ]
 }
