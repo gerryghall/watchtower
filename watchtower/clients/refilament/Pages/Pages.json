@@ -186,7 +186,12 @@
           "title": "HIPS (High-Impact Polystyrene)",
           "icon": "IconHIPS",
           "description": "Mark your HIPS prints with this SVG, supporting better recycling and material awareness."
-        }
+        },
+        {
+      "title": "PETG (Polyethylene Terephthalate Glycol)",
+      "icon": "IconPETG",
+      "description": "Label your PETG prints with this SVG, making it easier to identify this durable and versatile material."
+    }
       ]
     }
   ]
