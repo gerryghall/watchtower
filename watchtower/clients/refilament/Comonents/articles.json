@@ -80,6 +80,8 @@
 	  "id": "3d-printing-sustainability-uk",
 	  "title": "Advancing Sustainability: The Role of 3D Printing in the UK",
 	  "introduction": "3D printing, or additive manufacturing, is revolutionising the UK's manufacturing landscape by enhancing sustainability across various sectors. This article explores how 3D printing contributes to material efficiency, energy conservation, design optimisation, and the promotion of a circular economy within the UK.",
+	  "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1735420166/UK-Recyle_wuoqit.jpg",
+	  "alt": "",
 	  "sections": [
 	    {
 	      "name": "Material Efficiency and Waste Reduction",
