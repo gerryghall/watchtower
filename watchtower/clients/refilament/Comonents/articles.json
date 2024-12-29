@@ -220,5 +220,58 @@
 	      ]
 	    }
 	  ]
+	},
+	{
+	  "id": "adapting-environment-multicolour-3d-printing",
+	  "title": "Adapting Your Environment: Enhancing Multi-Colour 3D Printing with Fusion 360 Add-Ons",
+	  "introduction": "As multi-colour 3D printing grows in popularity, managing and organising your workflow becomes increasingly critical. By adapting your tools, you can improve precision and streamline processes. This article discusses how creating a custom Fusion 360 add-on can help adapt your environment for better part management in multi-colour 3D printing.",
+	  "sections": [
+	    {
+	      "name": "The Challenge of Multi-Colour 3D Printing",
+	      "description": "In multi-colour 3D printing, selecting and managing parts becomes challenging, especially when working with complex designs. Parts often lack descriptive names in slicers, making it difficult to assign the correct colour. By modifying the titles of objects in Fusion 360 and prefixing them with the desired colour, you can simplify the process and reduce errors.",
+	      "website": "https://www.autodesk.com/products/fusion-360/overview"
+	    },
+	    {
+	      "name": "Why Adaptation Matters",
+	      "description": "Customising your tools is key to achieving precision in multi-colour printing. By automating part naming, you eliminate confusion in the slicer stage. This adaptation ensures a smoother workflow, saving time and reducing the risk of colour assignment errors.",
+	      "website": "https://www.autodesk.com/fusion360"
+	    },
+	    {
+	      "name": "Writing a Fusion 360 Add-On in Python",
+	      "description": "Fusion 360 supports scripting through Python, allowing users to create custom add-ons. In this tutorial, we'll guide you through creating an add-on that appends a colour prefix (e.g., 'Blue') to selected object names. This tool adapts your environment for enhanced multi-colour printing precision.",
+	      "key_features": [
+	        "Customise object names with colour prefixes",
+	        "Automate repetitive tasks",
+	        "Improve organisation in slicers"
+	      ],
+	      "website": "https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-3AC8A319-B0F5-43A8-AF7A-92B26F7AB241"
+	    },
+	    {
+	      "name": "Steps to Create the Add-On",
+	      "description": "Follow these steps to create your Fusion 360 add-on for renaming objects with a colour prefix:",
+	      "key_features": [
+	        "Open Fusion 360 and ensure you have an active design.",
+	        "Copy the Python script provided below into a new file in Fusion 360's Add-In directory.",
+	        "Ensure that selected objects are bodies (BRepBody) in the Fusion 360 browser.",
+	        "Run the script to append the colour prefix to selected object names."
+	      ],
+	      "website": "https://knowledge.autodesk.com/support/fusion-360"
+	    },
+	    {
+	      "name": "The Python Code",
+	      "description": "Below is the Python script for the Fusion 360 add-on. Save this script and load it as an add-on in Fusion 360 to start renaming objects with your desired colour prefix.",
+	      "key_features": [
+	        "Use Python to interact with Fusion 360's API",
+	        "Script checks for valid objects before renaming",
+	        "Provides error handling for debugging"
+	      ],
+	      "website": "https://www.python.org/"
+	    },
+	    {
+	      "name": "Final Thoughts",
+	      "description": "Adapting your environment for multi-colour 3D printing can significantly improve your workflow. By using this Fusion 360 add-on, you create a cleaner and more organised setup for your projects, ensuring precision and reducing errors in the slicing stage. As technology advances, small adaptations like these can make a big difference in achieving efficient and sustainable practices.",
+	      "website": "https://refilament.3dprinting.gallery/"
+	    }
+	  ]
 	}
 ]
