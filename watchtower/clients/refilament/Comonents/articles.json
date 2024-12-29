@@ -155,6 +155,8 @@
 	  "id": "is-pla-food-safe",
 	  "title": "Is PLA Food Safe? A Comprehensive Guide",
 	  "introduction": "Polylactic Acid (PLA) is one of the most popular materials in 3D printing, known for its biodegradability and eco-friendly properties. However, its suitability for food-related applications often raises questions. In this article, we delve into whether PLA is truly food safe, the factors to consider, and the steps required to ensure safety.",
+	  "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1735459585/food_safe_tmfecf.jpg",
+	  "alt": "",
 	  "sections": [
 	    {
 	      "name": "What Makes PLA Food Safe?",
