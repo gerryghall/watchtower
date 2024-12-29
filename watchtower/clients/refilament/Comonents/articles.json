@@ -33,7 +33,7 @@
 	      "key_features": [
 	        "Parametric modeling for precise designs",
 	        "Ideal for creating technical parts",
-	        "Open-source and highly customizable"
+	        "Open-source and highly customisable"
 	      ],
 	      "website": "https://www.freecad.org"
 	    },
@@ -64,7 +64,7 @@
 	      "description": "For Editing and Fixing 3D Models",
 	      "why_choose": "If you already have a 3D model but need to tweak or repair it, Meshmixer is a fantastic free tool. It allows you to refine your designs, check for errors, and prepare models for printing.",
 	      "key_features": [
-	        "Mesh editing and optimization",
+	        "Mesh editing and optimisation",
 	        "Repair tools for 3D printing",
 	        "Ideal for modifying existing models"
 	      ],
@@ -200,9 +200,9 @@
 	    },
 	    {
 	      "name": "Final Thoughts",
-	      "description": "Using PLA for food-related 3D prints requires careful consideration of filament quality, printing conditions, and post-processing. While some PLA brands claim food safety, it’s crucial to follow best practices and adhere to regulatory guidelines to ensure safety. Always prioritize materials specifically designed for food contact when in doubt.",
+	      "description": "Using PLA for food-related 3D prints requires careful consideration of filament quality, printing conditions, and post-processing. While some PLA brands claim food safety, it’s crucial to follow best practices and adhere to regulatory guidelines to ensure safety. Always prioritise materials specifically designed for food contact when in doubt.",
 	      "key_features": [
-	        "Prioritize materials designed for food contact",
+	        "Prioritise materials designed for food contact",
 	        "Follow best practices and regulatory guidelines",
 	        "Ensure proper post-processing for optimal safety"
 	      ],
