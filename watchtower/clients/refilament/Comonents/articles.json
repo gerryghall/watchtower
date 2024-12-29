@@ -230,13 +230,11 @@
 	  "sections": [
 	    {
 	      "name": "The Challenge of Multi-Colour 3D Printing",
-	      "description": "In multi-colour 3D printing, selecting and managing parts becomes challenging, especially when working with complex designs. Parts often lack descriptive names in slicers, making it difficult to assign the correct colour. By modifying the titles of objects in Fusion 360 and prefixing them with the desired colour, you can simplify the process and reduce errors.",
-	      "website": "https://www.autodesk.com/products/fusion-360/overview"
+	      "description": "In multi-colour 3D printing, selecting and managing parts becomes challenging, especially when working with complex designs. Parts often lack descriptive names in slicers, making it difficult to assign the correct colour. By modifying the titles of objects in Fusion 360 and prefixing them with the desired colour, you can simplify the process and reduce errors."
 	    },
 	    {
 	      "name": "Why Adaptation Matters",
-	      "description": "Customising your tools is key to achieving precision in multi-colour printing. By automating part naming, you eliminate confusion in the slicer stage. This adaptation ensures a smoother workflow, saving time and reducing the risk of colour assignment errors.",
-	      "website": "https://www.autodesk.com/fusion360"
+	      "description": "Customising your tools is key to achieving precision in multi-colour printing. By automating part naming, you eliminate confusion in the slicer stage. This adaptation ensures a smoother workflow, saving time and reducing the risk of colour assignment errors."
 	    },
 	    {
 	      "name": "Writing a Fusion 360 Add-On in Python",
@@ -245,8 +243,7 @@
 	        "Customise object names with colour prefixes",
 	        "Automate repetitive tasks",
 	        "Improve organisation in slicers"
-	      ],
-	      "website": "https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-3AC8A319-B0F5-43A8-AF7A-92B26F7AB241"
+	      ]
 	    },
 	    {
 	      "name": "Steps to Create the Add-On",
@@ -271,8 +268,7 @@
 	    },
 	    {
 	      "name": "Final Thoughts",
-	      "description": "Adapting your environment for multi-colour 3D printing can significantly improve your workflow. By using this Fusion 360 add-on, you create a cleaner and more organised setup for your projects, ensuring precision and reducing errors in the slicing stage. As technology advances, small adaptations like these can make a big difference in achieving efficient and sustainable practices.",
-	      "website": "https://refilament.3dprinting.gallery/"
+	      "description": "Adapting your environment for multi-colour 3D printing can significantly improve your workflow. By using this Fusion 360 add-on, you create a cleaner and more organised setup for your projects, ensuring precision and reducing errors in the slicing stage. As technology advances, small adaptations like these can make a big difference in achieving efficient and sustainable practices."
 	    }
 	  ]
 	}
