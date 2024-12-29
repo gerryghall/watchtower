@@ -267,7 +267,7 @@
 	        "Script checks for valid objects before renaming",
 	        "Provides error handling for debugging"
 	      ],
-	      "website": "https://www.python.org/"
+	      "website": "https://raw.githubusercontent.com/gerryghall/Refilament-snippets/refs/heads/master/prefix-body-name.py"
 	    },
 	    {
 	      "name": "Final Thoughts",
