@@ -153,65 +153,71 @@
 	},
 	{
 	  "id": "is-pla-food-safe",
-	  "title": "Is PLA Food Safe? A Comprehensive Guide",
-	  "introduction": "Polylactic Acid (PLA) is one of the most popular materials in 3D printing, known for its biodegradability and eco-friendly properties. However, its suitability for food-related applications often raises questions. In this article, we delve into whether PLA is truly food safe, the factors to consider, and the steps required to ensure safety.",
-	  "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1735459585/food_safe_tmfecf.jpg",
-	  "alt": "",
-	  "sections": [
+	  "title": "Is PLA Food Safe?",
+	  "introduction": "3D printing has opened a world of possibilities for creating custom designs, but when it comes to food-related applications, the safety of materials like PLA often comes into question. This article explores whether PLA is food safe and the considerations you should keep in mind.",
+	 "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1735459585/food_safe_tmfecf.jpg",
+	 "alt": "",
+	 "sections": [
 	    {
-	      "name": "What Makes PLA Food Safe?",
-	      "description": "PLA is derived from natural sources like corn starch, which inherently makes the raw material food safe. Some manufacturers produce PLA specifically labelled as 'food safe,' ensuring that no harmful additives or dyes are present. These products often meet FDA or EU regulations for food contact materials, making them suitable for food-related use under specific conditions.",
-	      "website": "https://filaments.ca/products/pla-3d-printer-filament-food-safe",
+	      "name": "Understanding PLA",
+	      "description": "PLA, or Polylactic Acid, is a biodegradable thermoplastic made from renewable resources like cornstarch. It is commonly used in 3D printing due to its ease of use and lower printing temperatures. While PLA is marketed as food safe in its raw form, the printing process and post-processing can impact its safety.",
 	      "key_features": [
-	        "Derived from natural, biodegradable materials.",
-	        "Available in food-safe grades from specific manufacturers.",
-	        "Meets FDA or EU standards when explicitly labelled as food safe."
+	        "Biodegradable thermoplastic made from renewable resources",
+	        "Low printing temperatures make it user-friendly",
+	        "Marketed as food safe in raw form"
 	      ],
-	      "why_choose": "Food-safe PLA provides an accessible and eco-friendly material for creating items like cookie cutters, food storage containers, or utensils, provided it is used under proper conditions."
+	      "website": "https://all3dp.com/2/is-pla-food-safe-what-you-really-need-to-know/"
 	    },
 	    {
-	      "name": "Challenges with Food Safety in 3D Printing",
-	      "description": "Even if PLA is food safe, the 3D printing process introduces risks. The layer-by-layer printing method results in porous surfaces where bacteria can grow. Furthermore, most desktop printers use brass nozzles, which can leach harmful substances like lead into the print.",
-	      "website": "https://3dinsider.com/food-safe-3d-printing/",
+	      "name": "What Makes a Material Food Safe?",
+	      "description": "A food-safe material must not leach harmful chemicals or contaminants when in contact with food. FDA or EU regulations often determine food safety for materials. PLA filaments marketed as food-safe are usually manufactured in controlled environments to reduce contamination risks.",
 	      "key_features": [
-	        "Porosity in prints allows bacterial growth.",
-	        "Standard brass nozzles can contain harmful materials.",
-	        "Cross-contamination risks from other filaments."
+	        "Must not leach harmful chemicals or contaminants",
+	        "FDA and EU regulations often determine food safety",
+	        "Food-safe PLA is manufactured in controlled environments"
 	      ],
-	      "why_choose": "Understanding these challenges is essential for minimizing health risks and ensuring printed items remain safe for food-related use."
+	      "website": "https://www.filamentive.com/food-safe-filament-guide-ensuring-3d-printing-food-safety/"
 	    },
 	    {
-	      "name": "Steps to Ensure Food Safety",
-	      "description": "To create food-safe 3D prints, follow strict guidelines. Use a dedicated printer or replace the nozzle with a food-grade stainless steel one. Post-process prints with food-safe sealants to cover porous surfaces, and always ensure proper cleaning before use.",
-	      "website": "https://all3dp.com/1/food-safe-3d-printing-filament/",
+	      "name": "The Role of Post-Processing",
+	      "description": "Even if a filament is food safe, the 3D printing process can introduce risks. Porous surfaces can harbor bacteria, and post-processing techniques like sanding, coating with food-safe sealants, or using a food-safe epoxy can help reduce risks.",
 	      "key_features": [
-	        "Use food-safe certified PLA.",
-	        "Employ stainless steel or food-grade nozzles.",
-	        "Seal prints with food-safe coatings to prevent contamination."
+	        "Porous surfaces can harbor bacteria",
+	        "Sanding and sealants reduce contamination risks",
+	        "Food-safe epoxies can improve durability and hygiene"
 	      ],
-	      "why_choose": "Taking these precautions allows 3D printing enthusiasts to safely create functional and reusable items for food contact."
+	      "website": "https://formlabs.com/blog/guide-to-food-safe-3d-printing/"
 	    },
 	    {
-	      "name": "Alternatives to PLA for Food Applications",
-	      "description": "Other materials, such as PETG, are more commonly used for food-safe applications due to their lower porosity and higher resistance to bacteria. PETG filaments with food-safe certifications provide an alternative for those needing durable, food-contact-ready prints.",
-	      "website": "https://www.makerbot.com/stories/3d-printing/food-safe-3d-printing/",
+	      "name": "Considerations for PLA in Food Applications",
+	      "description": "While PLA can be food safe, its usage for food-related items depends on factors like the printing process, post-processing, and storage conditions. For example, PLA is not suitable for high-temperature applications as it can degrade when exposed to heat.",
 	      "key_features": [
-	        "Lower porosity compared to PLA.",
-	        "Higher durability and heat resistance.",
-	        "Widely available with food-safe certifications."
+	        "Requires careful attention to storage conditions",
+	        "Not suitable for high-temperature applications",
+	        "Can degrade when exposed to prolonged heat"
 	      ],
-	      "why_choose": "PETG offers an excellent alternative for food-safe applications, especially when higher durability and reduced porosity are required."
+	      "website": "https://3dprintmentor.com/is-pla-food-safe/"
 	    },
 	    {
 	      "name": "Final Thoughts",
-	      "description": "While PLA can be food safe when appropriately sourced and processed, the nature of 3D printing presents challenges that require additional steps to ensure safety. Alternatives like PETG may offer a more reliable solution for food contact applications.",
-	      "website": "https://www.makerbot.com/stories/3d-printing/food-safe-3d-printing/",
+	      "description": "Using PLA for food-related 3D prints requires careful consideration of filament quality, printing conditions, and post-processing. While some PLA brands claim food safety, it’s crucial to follow best practices and adhere to regulatory guidelines to ensure safety. Always prioritize materials specifically designed for food contact when in doubt.",
 	      "key_features": [
-	        "Consider the source and certification of PLA.",
-	        "Always post-process to reduce porosity.",
-	        "Explore alternatives like PETG for better reliability."
+	        "Prioritize materials designed for food contact",
+	        "Follow best practices and regulatory guidelines",
+	        "Ensure proper post-processing for optimal safety"
 	      ],
-	      "why_choose": "Making informed decisions about materials and processes ensures safe, functional, and sustainable 3D-printed items for food contact."
+	      "website": "https://www.alveo3d.com/en/food-safe-3d-printing-materials-safety-guide/"
+	    },
+	    {
+	      "name": "Citations and Further Reading",
+	      "description": "For more information on food-safe 3D printing and related best practices, refer to the following sources:",
+	      "key_features": [
+	        "https://all3dp.com/2/food-safe-3d-printer-filament-best-brands/",
+	        "https://www.chefsresource.com/is-3d-printed-pla-food-safe/",
+	        "https://www.3dsourced.com/guides/food-safe-3d-printer-filaments/",
+	        "https://basic3dp.com/are-pla-abs-and-petg-3d-prints-food-safe/",
+	        "https://www.crealitycloud.com/blog/tutorials/food-safe-filament"
+	      ]
 	    }
 	  ]
 	}
