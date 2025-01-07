@@ -5,7 +5,7 @@
       "title": "Welcome to Your 3D Printing Gallery",
       "intro": "Empowering 3D printing enthusiasts with a platform to showcase their creations, connect with the community, and elevate their passion.",
       "description": "",
-      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/v1731519866/Your3DPrintingGallery_HomePage.png",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1731519868/WebServices_zrchmm.png",
       "items": [
         {
           "title": "Your Creative Hub",
@@ -93,10 +93,10 @@
     {
       "id": "contact",
       "title": "Contact Your 3D Printing Gallery",
-      "intro": "",
+      "intro": "If you’re interested in a website that grows with your creativity, reach out to learn more or dive in.",
       "description": "",
-      "image": "",
-      "alt": "Refilament Services",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1731519868/WebServices_zrchmm.png",
+      "alt": "Your Web Services Services",
       "items": [
         {
           "type": "email",
