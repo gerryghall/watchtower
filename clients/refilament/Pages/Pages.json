@@ -1,0 +1,215 @@
+{
+  "pages": [
+    {
+      "id": "home",
+      "title": "Welcome to ReFilament",
+      "intro": " At ReFilament, we’re committed to revolutionising the 3D printing industry with sustainable solutions. By recycling waste plastic and transforming it into high-quality filament, plastic sheets, and injection-moulded products, we’re reducing plastic waste one print at a time. Explore how our services can power your creations responsibly and efficiently.",
+      "description": "Our custom 3D printing service offers high-quality, precise printing for any object you need. You provide the model, and we bring it to life with a range of materials and finishes. Perfect for prototypes, functional parts, or creative projects.",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_green,b_rgb:262c35/v1731519869/recycle_uq8tqf.png",
+      "alt": "Sustainable 3D Printing",
+      "items": [
+        {
+          "title": "Recycling Service",
+          "icon": "IconRecycling",
+          "description": "Join our mission to recycle failed prints and plastic waste. We turn your materials into new, high-quality filament and products, reducing environmental impact."
+        },
+        {
+          "title": "3D Printing Service",
+          "icon": "Icon3Dprinter",
+          "description": "Discover our high-quality 3D printing services, from prototype to production. Our range of materials and precision ensure reliable, stunning results."
+        },
+        {
+          "title": "Custom Finishing",
+          "icon": "IconFinishing",
+          "description": "Give your creations a unique touch with our custom finishing options, including polishing, painting, hydro-dipping, and vinyl wrapping."
+        }
+      ]
+    },
+    {
+      "id": "about",
+      "title": "About ReFilament",
+      "intro": " Welcome to ReFilament! Our mission is to drive sustainability in the 3D printing world by transforming waste plastic into valuable materials for new creations. We believe that innovative solutions are key to reducing plastic waste, and we’re dedicated to making the 3D printing industry more eco-friendly, one filament spool at a time.",
+      "description": "",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_green,b_rgb:262c35/v1731519858/About-Us_q0wc3q.png",
+      "items": [
+        {
+          "title": "Who are we?",
+          "icon": "IconRecycling",
+          "description": "At ReFilament, we specialise in recycling failed prints, repurposing them into filament, plastic sheets, and injection-moulded products."
+        },
+        {
+          "title": "Passionate For Recycling",
+          "icon": "IconSupport",
+          "description": "Our team is passionate about up-cycling and finding creative ways to give materials a second chance."
+        },
+        {
+          "title": "Join the Community",
+          "icon": "IconCommunity",
+          "description": "Join us in rethinking what’s possible with recycled plastic. Let’s build a sustainable future together, one print at a time."
+        }
+      ]
+    },
+    {
+      "id": "services",
+      "title": "ReFilament Services",
+      "intro": "At ReFilament, we offer a range of services to help you bring your ideas to life sustainably. From recycling waste plastics to advanced finishing options, we are here to support your needs.",
+      "description": "",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_green,b_rgb:262c35/v1731519870/Services_w3yuxd.png",
+      "items": [
+        {
+          "id": "prod_OKUv1TFhzUU0n9",
+          "title": "Recycle Your Waste (Subscription Only)",
+          "icon": "IconRecycling",
+          "description": "Give your failed prints a new purpose. Our subscription-based recycling service processes waste plastic into new, usable filament, sheets, and moulded products."
+        },
+        {
+          "id": "prod_OW988jmJdYKRmE",
+          "title": "3D Modelling",
+          "icon": "Icon3D",
+          "description": "From concept to creation, our 3D modelling services help bring your ideas to life, setting a strong foundation for successful 3D printing or manufacturing."
+        },
+        {
+          "id": "prod_OJSjBQoelVBURn",
+          "title": "3D Printing",
+          "icon": "Icon3Dprinter",
+          "description": "High-quality 3D printing for prototypes and products. With flexible options, we deliver reliable, high-quality prints to match your specifications."
+        },
+        {
+          "id": 4,
+          "title": "Plastic Injection Moulding",
+          "icon": "IconEcosystem",
+          "description": "High-volume output with consistent quality, perfect for durable parts. We handle design, material selection, and production for efficient manufacturing."
+        },
+        {
+          "id": 5,
+          "title": "Hydro Dipping",
+          "icon": "IconHydrodipping",
+          "description": "Add unique patterns and textures to your parts. Hydro dipping offers intricate designs, making each piece stand out with a custom look."
+        },
+        {
+          "id": "prod_RDHnbM3GmMOrLo",
+          "title": "Vinyl Wrapping",
+          "icon": "IconVinyl",
+          "description": "Enhance your parts with custom colors, textures, and finishes. Ideal for branding or personalisation, vinyl wrapping adds a professional touch."
+        },
+        {
+          "id": "prod_OQRYu1d7gUmRBD",
+          "title": "Vacuum Forming",
+          "icon": "IconVacForming",
+          "description": "Perfect for lightweight, high-strength parts. Vacuum forming is ideal for custom enclosures, protective covers, and other functional components."
+        }
+      ]
+    },
+    {
+      "id": "webservices",
+      "title": "ReFilament Web Services",
+      "intro": "Are you a 3D printing enthusiast looking to showcase your work, connect with others, or share your unique creations online? Imagine having a simple, clean, and customisable website—tailored to your needs, easy to update, and visually stunning.",
+      "description": "With ReFilament Web Services, building your own 3D printing portfolio site has never been easier. Our platform offers simplicity with powerful customisation, allowing you to focus on your creations without the hassle of complicated setups.",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1731519868/WebServices_zrchmm.png",
+      "items": [
+        {
+          "title": "Simple Yet Powerful Design",
+          "description": "Built with Tailwind CSS and Vue.js, your site combines simplicity with a responsive, modern layout that can be easily styled to match your brand or personality.",
+          "icon": "PaintBrushIcon"
+        },
+        {
+          "title": "Fully Customisable Content",
+          "description": "Our sites are powered by JSON data, allowing you to add, edit, or remove content effortlessly.",
+          "icon": "PencilIcon"
+        },
+        {
+          "title": "Rich Features for Creators",
+          "description": "With gallery support, dynamic image sliders, and space to share your latest prints, highlight what you do best in style.",
+          "icon": "PhotoIcon"
+        },
+        {
+          "title": "Flexible Hosting Options",
+          "description": "Host your site wherever works best for you—on Vercel, GitHub Pages, or your own preferred platform.",
+          "icon": "ServerIcon"
+        },
+        {
+          "title": "Get Started Today",
+          "description": "If you’re interested in a website that grows with your creativity, reach out to learn more or dive in.",
+          "icon": "PlayIcon"
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Contact Refilament",
+      "intro": "We’d love to hear from you! Whether you have a question about our services, need support, or want to discuss a custom project, we’re here to help. Reach out to us on Facebook for quick responses, give us a call for immediate assistance, or drop us an email for detailed inquiries. Our team is dedicated to providing the information and support you need to make your 3D printing and recycling experience with us as seamless as possible.",
+      "description": "",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_green,b_rgb:262c35/v1731519866/Contact-Us_opyfya.png",
+      "alt": "Refilament Services",
+      "items": [
+        {
+          "title": "Email",
+          "icon": "DevicePhoneMobileIcon",
+          "description": "me@gerryghall.co.uk"
+        },
+        {
+          "title": "Phone",
+          "icon": "PhoneIcon",
+          "description": "07704689537"
+        },
+        {
+          "title": "Facebook",
+          "icon": "PresentationChartBarIcon",
+          "description": "https://www.facebook.com/refilamentstore"
+        }
+      ]
+    },
+    {
+      "id": "about-plastic-identification",
+      "title": "Plastic Identification SVGs",
+      "intro": "At ReFilament, we believe in promoting sustainable practices in 3D printing. Our new plastic identification SVGs make it easy for enthusiasts to label their prints, helping ensure proper recycling and material identification.",
+      "description": "These SVGs are designed for 3D printing enthusiasts to integrate into their prints, making the material type easily identifiable. By marking your prints, you contribute to better recycling practices and sustainability in the 3D printing community.",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/v1731519869/refilament-identification.png",
+      "alt": "Plastic Identification SVGs for 3D Printing",
+      "items": [
+        {
+          "title": "PLA (Polylactic Acid)",
+          "icon": "IconPLA",
+          "description": "Label your biodegradable PLA prints with this SVG for easy identification and proper disposal."
+        },
+        {
+          "title": "ABS (Acrylonitrile Butadiene Styrene)",
+          "icon": "IconABS",
+          "description": "Use this SVG to mark your durable ABS prints, ensuring they are clearly recognised."
+        },
+        {
+          "title": "ASA (Acrylonitrile Styrene Acrylate)",
+          "icon": "IconASA",
+          "description": "Identify your UV-resistant ASA prints with our dedicated SVG, designed for clarity and visibility."
+        },
+        {
+          "title": "HIPS (High-Impact Polystyrene)",
+          "icon": "IconHIPS",
+          "description": "Mark your HIPS prints with this SVG, supporting better recycling and material awareness."
+        },
+        {
+          "title": "PETG (Polyethylene Terephthalate Glycol)",
+          "icon": "IconPETG",
+          "description": "Label your PETG prints with this SVG, making it easier to identify this durable and versatile material."
+        }
+      ]
+    },
+    {
+      "id": "videos",
+      "title": "Video Gallery",
+      "intro": "",
+      "description": "",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1735354900/Articles_i8xu9y.jpg",
+      "alt": "Refilament Video Gallery",
+      "items": []
+    },
+    {
+  "id": "articles",
+  "title": "Explore Our Articles",
+  "intro": "Dive into our collection of articles focused on sustainable 3D printing, innovative recycling techniques, and the future of eco-friendly manufacturing.",
+  "description": "Our articles are crafted to educate, inspire, and inform about the latest trends and advancements in sustainable 3D printing. Learn how you can contribute to reducing plastic waste while exploring the endless possibilities of 3D printing technology.",
+  "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1735354900/Articles_i8xu9y.jpg",
+  "alt": "Articles and Insights on Sustainability"
+}
+  ]
+}
