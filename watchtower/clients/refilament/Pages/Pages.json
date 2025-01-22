@@ -204,6 +204,15 @@
       "items": []
     },
     {
+      "id": "images",
+      "title": "Image Galleries",
+      "intro": "Dive into a world of creativity and innovation through our curated image galleries. Here, you’ll find a diverse range of visuals showcasing our sustainable 3D printing projects, custom designs, and community contributions.\n\nEach gallery offers inspiration, ideas, and a closer look at how we’re transforming recycled materials into stunning and functional creations. Whether you’re exploring unique prototypes, artistic pieces, or collaborative works, there’s something for everyone.\n\nTake a moment to browse, be inspired, and see how sustainability and creativity come to life!",
+      "description": "",
+      "image": "https://res.cloudinary.com/dbtpdq01o/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1737557598/ImageGallery_v8sujy.jpg",
+      "alt": "Refilament Image Gallery",
+      "items": []
+    },
+    {
   "id": "articles",
   "title": "Explore Our Articles",
   "intro": "Dive into our collection of articles focused on sustainable 3D printing, innovative recycling techniques, and the future of eco-friendly manufacturing.",
