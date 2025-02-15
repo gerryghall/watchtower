@@ -275,7 +275,7 @@
 	{
   "id": "understanding-plastic-recycling-categories-and-their-impact-on-3d-printing",
   "title": "Understanding Plastic Recycling Categories and Their Impact on 3D Printing",
-  "introduction": "Plastics are deeply embedded in modern life, from food packaging to automotive components and even medical devices. However, not all plastics are created equal when it comes to recycling. To help manage waste efficiently, plastics are categorized into seven distinct recycling codes. These categories determine whether a plastic item can be repurposed, how easily it can be processed, and where it ultimately ends up—recycled, incinerated, or sent to landfill. \n\nIn this article, we will explore these recycling categories, focus on Category 7 plastics—often the hardest to recycle—examine their role in 3D printing, and analyze the amount of Category 7 plastic that was sent to landfills in the UK before the boom of 3D printing."
+  "introduction": "Plastics are deeply embedded in modern life, from food packaging to automotive components and even medical devices. However, not all plastics are created equal when it comes to recycling. To help manage waste efficiently, plastics are categorized into seven distinct recycling codes. These categories determine whether a plastic item can be repurposed, how easily it can be processed, and where it ultimately ends up—recycled, incinerated, or sent to landfill. \n\nIn this article, we will explore these recycling categories, focus on Category 7 plastics—often the hardest to recycle—examine their role in 3D printing, and analyze the amount of Category 7 plastic that was sent to landfills in the UK before the boom of 3D printing. We will also examine the environmental impact of 3D printing waste and why, ultimately, all plastic produced for 3D printing will eventually end up in landfill."
   ,
   "sections": [
     {
@@ -303,25 +303,24 @@
       ]
     },
     {
-      "name": "Plastics Used in 3D Printing",
-      "description": "3D printing has grown exponentially in recent years, allowing individuals and businesses to create objects with precision and customization. The materials used in 3D printing are primarily thermoplastics, which can be melted and reshaped multiple times. However, most 3D printing plastics fall under Category 7, meaning they are not easily recyclable in conventional waste management systems. \n\nPolylactic Acid (PLA) is one of the most popular filaments in 3D printing. It is derived from natural sources such as cornstarch or sugarcane and is biodegradable under industrial composting conditions. However, PLA still falls under Category 7 due to its unique composition. \n\nAcrylonitrile Butadiene Styrene (ABS) is another widely used plastic in 3D printing. It is known for its durability, flexibility, and resistance to heat. Unfortunately, ABS is also difficult to recycle because it requires specialized processing and emits harmful fumes when melted. \n\nOther plastics used in 3D printing include PETG (a modified version of PET, which is more recyclable), Nylon (a strong but challenging material to reuse), and TPU (a flexible filament used for bendable prints). While efforts are being made to improve the recyclability of 3D printing plastics, the industry still struggles with sustainability challenges."
+      "name": "3D Printing and Plastic Waste",
+      "description": "3D printing has grown exponentially in recent years, allowing individuals and businesses to create objects with precision and customization. However, the environmental impact of 3D printing remains a growing concern, as most 3D printing filaments fall under Category 7 and are not widely recyclable. \n\n**How Much Plastic Waste Does 3D Printing Generate?**\n\nAs of 2021, the UK had approximately 168,000 installed 3D printers. On average, hobbyist users consume around 12 kg of filament annually, with up to 10% of this material becoming immediate waste due to failed prints. \n\n- **Total 3D Printers in the UK (2021):** 168,000\n- **Average Annual Filament Usage per Printer:** 12 kg\n- **Total Annual Filament Usage:** 2,016,000 kg\n- **Estimated Waste Percentage:** 10%\n- **Total Annual Waste:** 201,600 kg\n\nThis means that hobbyist 3D printing in the UK alone contributes approximately **201.6 tonnes of plastic waste** to landfills each year. However, this is just the visible waste—eventually, **100% of the plastic used in 3D printing will end up in landfills**, as even completed prints degrade over time and will need disposal. \n\nWhile some companies are developing methods to recycle used 3D printing plastic, these solutions remain limited. PLA, for example, is biodegradable in industrial composting conditions but does not break down naturally in regular landfill environments. ABS, PETG, and Nylon are even more difficult to recycle and require specialized facilities that are not widely available."
       ,
       "key_features": [
-        "PLA (Polylactic Acid) – A biodegradable plastic, but still categorized under Category 7.",
-        "ABS (Acrylonitrile Butadiene Styrene) – Durable, but hard to recycle and prone to emissions.",
-        "PETG (Polyethylene Terephthalate Glycol) – More recyclable than ABS, but less commonly collected.",
-        "Nylon – A strong material used for functional prints, falls under Category 7.",
-        "TPU (Thermoplastic Polyurethane) – Used for flexible prints, not widely recycled."
+        "168,000 3D printers in the UK (2021).",
+        "Over 201.6 tonnes of 3D printing plastic waste is produced annually by hobbyists.",
+        "Failed prints contribute to immediate waste, but eventually **all 3D printing plastic will end up in landfill**."
       ]
     },
     {
-      "name": "How Much Category 7 Plastic Goes to Landfill?",
-      "description": "Before the rapid rise of 3D printing, Category 7 plastics were largely untracked in the recycling system. Due to their complexity and lack of widespread recycling facilities, they were overwhelmingly discarded rather than repurposed. \n\nIn the UK, prior to 2020, an estimated 80% of Category 7 plastics ended up in landfills. The primary reason for this high percentage was the lack of economic incentives for processing mixed plastics. Unlike PET or HDPE, which have established recycling pathways, Category 7 plastics require specialized treatment that many facilities do not offer. \n\nWith the growing adoption of 3D printing, there is an increasing demand for sustainable solutions. Some companies are experimenting with closed-loop recycling programs, where used 3D printing waste is collected and remanufactured into fresh filament. However, large-scale recycling of 3D printing materials remains a challenge. \n\nTo reduce waste, industries and hobbyists are now exploring bio-based filaments, improved sorting methods, and initiatives that encourage responsible disposal of failed prints and excess plastic parts."
+      "name": "What Can Be Done?",
+      "description": "With the increasing popularity of 3D printing, there is an urgent need for sustainable alternatives. Some potential solutions include:\n\n- **Filament recycling programs**: Some companies now offer closed-loop recycling for failed prints and excess filament, turning waste back into usable material.\n- **Biodegradable alternatives**: Research into bio-based filaments that break down naturally is ongoing, but more widespread adoption is needed.\n- **Improved waste management**: Local authorities and businesses can work together to establish dedicated recycling streams for 3D printing waste.\n- **Reducing print failures**: Hobbyists and professionals can optimize settings to reduce failed prints, thereby minimizing unnecessary waste.\n\nThe key takeaway is that while 3D printing offers exciting possibilities, its environmental impact should not be ignored. Without proper disposal methods, **every piece of plastic used in 3D printing will eventually become landfill waste**."
       ,
       "key_features": [
-        "Before 2020, around 80% of Category 7 plastics in the UK were sent to landfills.",
-        "Lack of processing infrastructure made it easier to discard these plastics rather than recycle them.",
-        "With 3D printing on the rise, initiatives are emerging to repurpose waste, but solutions are still in development."
+        "Encourage filament recycling programs.",
+        "Invest in biodegradable filament alternatives.",
+        "Improve waste management solutions for 3D printing plastics.",
+        "Minimize print failures to reduce unnecessary waste."
       ]
     }
   ]
