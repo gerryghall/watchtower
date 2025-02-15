@@ -271,5 +271,59 @@
 	      "description": "Adapting your environment for multi-colour 3D printing can significantly improve your workflow. By using this Fusion 360 add-on, you create a cleaner and more organised setup for your projects, ensuring precision and reducing errors in the slicing stage. As technology advances, small adaptations like these can make a big difference in achieving efficient and sustainable practices."
 	    }
 	  ]
-	}
+	},
+	{
+  "id": "understanding-plastic-recycling-categories-and-their-impact-on-3d-printing",
+  "title": "Understanding Plastic Recycling Categories and Their Impact on 3D Printing",
+  "introduction": "Plastics are deeply embedded in modern life, from food packaging to automotive components and even medical devices. However, not all plastics are created equal when it comes to recycling. To help manage waste efficiently, plastics are categorized into seven distinct recycling codes. These categories determine whether a plastic item can be repurposed, how easily it can be processed, and where it ultimately ends up—recycled, incinerated, or sent to landfill. \n\nIn this article, we will explore these recycling categories, focus on Category 7 plastics—often the hardest to recycle—examine their role in 3D printing, and analyze the amount of Category 7 plastic that was sent to landfills in the UK before the boom of 3D printing."
+  ,
+  "sections": [
+    {
+      "name": "Plastic Recycling Categories",
+      "description": "Plastic materials are classified into seven categories based on their chemical composition and recycling potential. These categories were established to help consumers and industries properly sort and dispose of plastic waste. \n\nCategory 1 (PETE/PET) plastics, such as water and soda bottles, are highly recyclable and widely collected. Similarly, Category 2 (HDPE) includes durable plastics like milk jugs and detergent bottles, which are commonly repurposed into new products. \n\nHowever, as we move up the scale, recycling becomes more challenging. Categories 3 (PVC) and 4 (LDPE) include plastics that contain chemical additives, making them harder to process without releasing harmful byproducts. Category 5 (PP), found in food containers and bottle caps, is becoming more recyclable with improved technologies. \n\nCategory 6 (PS) covers polystyrene, including Styrofoam, which is notoriously difficult to recycle and often ends up in landfills. Finally, Category 7 serves as a catch-all group for mixed or unknown plastics, making it the least likely to be recycled."
+      ,
+      "key_features": [
+        "Category 1 (PETE/PET) – Commonly used for beverage bottles and food containers, widely recycled.",
+        "Category 2 (HDPE) – Found in milk jugs, detergent bottles, and pipes, highly recyclable.",
+        "Category 3 (PVC) – Used in pipes, flooring, and cling wrap, difficult to recycle due to chemical additives.",
+        "Category 4 (LDPE) – Includes plastic bags and squeeze bottles, recyclable in specialized programs.",
+        "Category 5 (PP) – Found in bottle caps, straws, and takeaway containers, increasingly recycled.",
+        "Category 6 (PS) – Includes polystyrene and Styrofoam, rarely recycled and prone to landfill waste.",
+        "Category 7 (Other) – A mix of plastics including polycarbonate and bioplastics, making recycling difficult."
+      ]
+    },
+    {
+      "name": "What is Category 7 Plastic?",
+      "description": "Category 7 plastics are a mixed group that does not fit into the first six recycling categories. These include materials such as polycarbonate (PC), bioplastics, and composite plastics that combine different polymer types. Because they are often chemically complex or multi-layered, they are challenging to recycle using conventional methods. \n\nExamples of Category 7 plastics include food storage containers, certain baby bottles, and medical-grade plastics. They are also commonly used in electronics, car parts, and high-strength applications where durability is required. \n\nUnfortunately, due to the difficulty in processing Category 7 plastics, they are often not accepted by standard recycling programs. Instead, they either end up in landfills or undergo incineration, contributing to environmental pollution and carbon emissions."
+      ,
+      "key_features": [
+        "Includes polycarbonate (PC), bioplastics, and composite materials.",
+        "Common applications: food storage, medical devices, electronic casings.",
+        "Recycling is rare due to mixed polymer compositions, often leading to landfill waste."
+      ]
+    },
+    {
+      "name": "Plastics Used in 3D Printing",
+      "description": "3D printing has grown exponentially in recent years, allowing individuals and businesses to create objects with precision and customization. The materials used in 3D printing are primarily thermoplastics, which can be melted and reshaped multiple times. However, most 3D printing plastics fall under Category 7, meaning they are not easily recyclable in conventional waste management systems. \n\nPolylactic Acid (PLA) is one of the most popular filaments in 3D printing. It is derived from natural sources such as cornstarch or sugarcane and is biodegradable under industrial composting conditions. However, PLA still falls under Category 7 due to its unique composition. \n\nAcrylonitrile Butadiene Styrene (ABS) is another widely used plastic in 3D printing. It is known for its durability, flexibility, and resistance to heat. Unfortunately, ABS is also difficult to recycle because it requires specialized processing and emits harmful fumes when melted. \n\nOther plastics used in 3D printing include PETG (a modified version of PET, which is more recyclable), Nylon (a strong but challenging material to reuse), and TPU (a flexible filament used for bendable prints). While efforts are being made to improve the recyclability of 3D printing plastics, the industry still struggles with sustainability challenges."
+      ,
+      "key_features": [
+        "PLA (Polylactic Acid) – A biodegradable plastic, but still categorized under Category 7.",
+        "ABS (Acrylonitrile Butadiene Styrene) – Durable, but hard to recycle and prone to emissions.",
+        "PETG (Polyethylene Terephthalate Glycol) – More recyclable than ABS, but less commonly collected.",
+        "Nylon – A strong material used for functional prints, falls under Category 7.",
+        "TPU (Thermoplastic Polyurethane) – Used for flexible prints, not widely recycled."
+      ]
+    },
+    {
+      "name": "How Much Category 7 Plastic Goes to Landfill?",
+      "description": "Before the rapid rise of 3D printing, Category 7 plastics were largely untracked in the recycling system. Due to their complexity and lack of widespread recycling facilities, they were overwhelmingly discarded rather than repurposed. \n\nIn the UK, prior to 2020, an estimated 80% of Category 7 plastics ended up in landfills. The primary reason for this high percentage was the lack of economic incentives for processing mixed plastics. Unlike PET or HDPE, which have established recycling pathways, Category 7 plastics require specialized treatment that many facilities do not offer. \n\nWith the growing adoption of 3D printing, there is an increasing demand for sustainable solutions. Some companies are experimenting with closed-loop recycling programs, where used 3D printing waste is collected and remanufactured into fresh filament. However, large-scale recycling of 3D printing materials remains a challenge. \n\nTo reduce waste, industries and hobbyists are now exploring bio-based filaments, improved sorting methods, and initiatives that encourage responsible disposal of failed prints and excess plastic parts."
+      ,
+      "key_features": [
+        "Before 2020, around 80% of Category 7 plastics in the UK were sent to landfills.",
+        "Lack of processing infrastructure made it easier to discard these plastics rather than recycle them.",
+        "With 3D printing on the rise, initiatives are emerging to repurpose waste, but solutions are still in development."
+      ]
+    }
+  ]
+}
 ]
