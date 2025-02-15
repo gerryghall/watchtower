@@ -314,12 +314,7 @@
     },
     {
       "name": "What Can Be Done?",
-      "description": "<p>With the increasing popularity of 3D printing, there is an urgent need for sustainable alternatives. Some potential solutions include:</p><br>
-  <strong>Filament recycling programs:</strong> Some companies now offer closed-loop recycling for failed prints and excess filament, turning waste back into usable material.<br><br>
-  <strong>Biodegradable alternatives:</strong> Research into bio-based filaments that break down naturally is ongoing, but more widespread adoption is needed.<br><br>
-  <strong>Improved waste management:</strong> Local authorities and businesses can work together to establish dedicated recycling streams for 3D printing waste.<br><br>
-  <strong>Reducing print failures:</strong> Hobbyists and professionals can optimize settings to reduce failed prints, thereby minimizing unnecessary waste.<br><br>
-  <p>The key takeaway is that while 3D printing offers exciting possibilities, its environmental impact should not be ignored. Without proper disposal methods, <strong>every piece of plastic used in 3D printing will eventually become landfill waste</strong>.</p>",
+      "description": "<p>With the increasing popularity of 3D printing, there is an urgent need for sustainable alternatives. Some potential solutions include:</p><br><strong>Filament recycling programs:</strong> Some companies now offer closed-loop recycling for failed prints and excess filament, turning waste back into usable material.<br><br><strong>Biodegradable alternatives:</strong> Research into bio-based filaments that break down naturally is ongoing, but more widespread adoption is needed.<br><br><strong>Improved waste management:</strong> Local authorities and businesses can work together to establish dedicated recycling streams for 3D printing waste.<br><br><strong>Reducing print failures:</strong> Hobbyists and professionals can optimize settings to reduce failed prints, thereby minimizing unnecessary waste.<br><br><p>The key takeaway is that while 3D printing offers exciting possibilities, its environmental impact should not be ignored. Without proper disposal methods, <strong>every piece of plastic used in 3D printing will eventually become landfill waste</strong>.</p>",
       "key_features": [
         "Encourage filament recycling programs.",
         "Invest in biodegradable filament alternatives.",
