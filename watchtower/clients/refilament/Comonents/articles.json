@@ -338,7 +338,7 @@
   "sections": [
     {
       "name": "United States: Limited PLA Composting Infrastructure",
-      "description": "Despite being one of the largest consumers of PLA-based products, the United States has a limited number of industrial composting facilities that accept PLA. Many municipal composting programmes focus on food waste and organic matter, excluding compostable plastics. NatureWorks, one of the largest PLA manufacturers, acknowledges the scarcity of facilities and provides a database for locating industrial composters.",
+      "description": "Despite being one of the largest consumers of PLA-based products, the United States has a <strong>limited number of industrial composting facilities</strong> that accept PLA. Many municipal composting programmes focus on food waste and organic matter, excluding compostable plastics. NatureWorks, one of the largest PLA manufacturers, acknowledges the scarcity of facilities and provides a database for locating industrial composters.",
       "key_features": [
         "Few industrial composting facilities in the US accept PLA.",
         "NatureWorks provides a tool for locating facilities.",
@@ -346,8 +346,17 @@
       ]
     },
     {
+      "name": "United Kingdom: Limited but Expanding Composting Capacity",
+      "description": "The UK has <strong>limited industrial composting facilities</strong> that accept PLA, primarily due to a lack of nationwide compostable plastic collection infrastructure. Some specialist commercial composting sites, such as EnVar and Severn Waste, accept certified PLA products. Additionally, some councils accept PLA through organic waste streams if it meets certification standards such as EN 13432. However, many industrial composters exclude PLA due to concerns about contamination and slower degradation rates compared to food and garden waste.",
+      "key_features": [
+        "The UK has few industrial composting sites that accept PLA.",
+        "Facilities such as EnVar and Severn Waste process some compostable plastics.",
+        "Local councils vary in PLA acceptance, with certification often required."
+      ]
+    },
+    {
       "name": "New Zealand: Increasing Industrial Composting Capacity",
-      "description": "New Zealand has made notable progress in expanding industrial composting infrastructure for PLA. Several certified facilities now process PLA alongside other compostable packaging materials. According to WasteMINZ, as of March 2023, there are eight industrial composting facilities that accept PLA-based materials, alongside two community composting programmes. However, regional availability remains limited.",
+      "description": "New Zealand has made notable progress in <strong>expanding industrial composting infrastructure for PLA</strong>. Several certified facilities now process PLA alongside other compostable packaging materials. According to WasteMINZ, as of March 2023, there are <strong>eight industrial composting facilities</strong> that accept PLA-based materials, alongside <strong>two community composting programmes</strong>. However, regional availability remains limited.",
       "key_features": [
         "Eight industrial facilities and two community programmes accept PLA in New Zealand.",
         "Strict certification requirements ensure proper processing.",
@@ -356,7 +365,7 @@
     },
     {
       "name": "Europe: Varying Acceptance of PLA in Industrial Composting",
-      "description": "Europe presents a mixed approach to PLA composting, with some countries leading the way while others hesitate to accept compostable plastics. Some industrial composting facilities in Italy actively process PLA and other bioplastics. However, in Belgium, composting plants have been hesitant to accept PLA due to its longer degradation time compared to food waste. Germany and France have limited but expanding PLA composting infrastructure.",
+      "description": "Europe presents a <strong>mixed approach</strong> to PLA composting, with some countries leading the way while others hesitate to accept compostable plastics. Some industrial composting facilities in Italy actively process PLA and other bioplastics. However, in Belgium, composting plants have been hesitant to accept PLA due to its longer degradation time compared to food waste. Germany and France have <strong>limited but expanding PLA composting infrastructure</strong>.",
       "key_features": [
         "Italy has successfully implemented PLA composting in some facilities.",
         "Belgium and other countries remain hesitant due to degradation time concerns.",
@@ -365,7 +374,7 @@
     },
     {
       "name": "Australia: Composting PLA on a Small Scale",
-      "description": "Australia has limited commercial composting infrastructure for PLA, but some councils and private companies accept compostable plastics. While industrial-scale PLA composting remains rare, some initiatives exist. Compost Connect is a business-led network that partners with certified composting sites. Some local governments allow PLA in organic waste streams, but capacity remains limited and infrastructure is still developing.",
+      "description": "Australia has <strong>limited commercial composting infrastructure for PLA</strong>, but some councils and private companies accept compostable plastics. While industrial-scale PLA composting remains rare, some initiatives exist. <strong>Compost Connect</strong> is a business-led network that partners with certified composting sites. Some local governments allow PLA in organic waste streams, but <strong>capacity remains limited</strong> and infrastructure is still developing.",
       "key_features": [
         "Some councils and private programmes accept PLA in Australia.",
         "Compost Connect facilitates business-led PLA composting.",
@@ -374,7 +383,7 @@
     },
     {
       "name": "Recommendations: How to Properly Dispose of PLA",
-      "description": "Given the limited availability of industrial composting facilities, consumers and businesses must take proactive steps in managing PLA waste. Contact local facilities to confirm whether they accept PLA. Look for certification, as some facilities require compostable plastics to be certified under standards such as EN 13432 or ASTM D6400. Supporting initiatives that expand industrial composting capacity can help increase PLA disposal options. Where composting is unavailable, consider PLA recycling programmes where applicable. Although PLA has the potential to be a sustainable material, its benefits can only be realised if proper composting infrastructure is in place. Until industrial composting facilities become more widespread, PLA waste management will remain a challenge.",
+      "description": "Given the <strong>limited availability of industrial composting facilities</strong>, consumers and businesses must take proactive steps in managing PLA waste. <strong>Contact local facilities</strong> to confirm whether they accept PLA. <strong>Look for certification</strong>, as some facilities require compostable plastics to be certified under standards such as EN 13432 or ASTM D6400. Supporting initiatives that <strong>expand industrial composting capacity</strong> can help increase PLA disposal options. Where composting is unavailable, consider <strong>PLA recycling programmes</strong> where applicable. Although PLA has the potential to be a sustainable material, its benefits can only be realised if <strong>proper composting infrastructure</strong> is in place. Until industrial composting facilities become more widespread, <strong>PLA waste management will remain a challenge</strong>.",
       "key_features": [
         "Check with local composting facilities to confirm PLA acceptance.",
         "Ensure PLA products meet compostability certifications.",
