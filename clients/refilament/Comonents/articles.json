@@ -271,5 +271,86 @@
 	      "description": "Adapting your environment for multi-colour 3D printing can significantly improve your workflow. By using this Fusion 360 add-on, you create a cleaner and more organised setup for your projects, ensuring precision and reducing errors in the slicing stage. As technology advances, small adaptations like these can make a big difference in achieving efficient and sustainable practices."
 	    }
 	  ]
-	}
+	},
+	{
+  "id": "vendor-creality-filament-dryers",
+  "type": "article",
+  "category": "vendor-dossier",
+  "title": "Creality Filament Dryers — Full Documentation & Evidence Review",
+  "introduction": "This page records and analyses all publicly available Creality documentation and vendor correspondence relating to filament dryers. It is a documentation and evidence review only; it does not certify performance and does not allege product defect.",
+  "meta": {
+    "vendor": "Creality",
+    "status": "complete",
+    "last_updated": "2025-12-23",
+    "tags": [
+      "creality",
+      "filament-dryer",
+      "documentation-review",
+      "polymer-drying",
+      "evidence"
+    ]
+  },
+  "sections": [
+    {
+      "name": "Scope of review",
+      "description": "This review covers Creality filament dryer products, including Space Pi–branded devices and variants, based on product pages, user manuals, marketing language, and direct email correspondence. Community posts and third-party opinions are excluded unless explicitly cited by Creality."
+    },
+    {
+      "name": "Products in scope",
+      "key_features": [
+        "Space Pi Filament Dryer",
+        "Space Pi Plus",
+        "SpacePi X4"
+      ],
+      "description": "Only products for which official Creality documentation or correspondence has been reviewed are included."
+    },
+    {
+      "name": "Public product claims",
+      "description": "Creality product listings describe temperature ranges, drying timers, supported filament types, and features such as PTC heating and humidity display. These claims describe device capability and usage, but do not define measurable drying outcomes or acceptance criteria."
+    },
+    {
+      "name": "Manual and preset guidance",
+      "description": "User manuals provide recommended temperature presets by filament type. These presets are grouped broadly (e.g. ABS/PET/PC/ASA/PA) and are accompanied by language advising users to defer to filament manufacturer recommendations, indicating that presets are guidance rather than validated limits."
+    },
+    {
+      "name": "Marketing language and implied expectations",
+      "description": "Marketing and guidance language uses terms such as 'drying', 'supports Nylon', and 'effective drying'. These terms are not accompanied by definitions of dryness, target moisture content, or measured performance outcomes, which can create implied expectations without technical substantiation."
+    },
+    {
+      "name": "Published evidence review",
+      "description": "No published drying curves, moisture reduction data, Karl Fischer measurements, equilibrium moisture targets, airflow-path validation, or repeatability/tolerance data have been located in Creality documentation for the reviewed products."
+    },
+    {
+      "name": "Documentation tensions and inconsistencies",
+      "description": "Some general guidance references drying temperatures (commonly discussed around ~80°C for certain polymers) that exceed the stated maximum operating range of specific dryer models. This represents an implied expectation gap rather than a quantified technical contradiction."
+    },
+    {
+      "name": "Vendor correspondence",
+      "description": "Email correspondence with Creality support resulted in the provision of electrical compliance documentation (e.g. CE/LVD/EMC/RoHS). No drying performance validation data, test methodology, or moisture targets were provided in response to technical enquiries."
+    },
+    {
+      "name": "What was explicitly not provided",
+      "key_features": [
+        "Definition of 'dry' or target moisture content",
+        "Drying performance test methodology",
+        "Before/after moisture measurements",
+        "Polymer-specific validated limits",
+        "Repeatability or tolerance data"
+      ],
+      "description": "The absence of these items limits the ability to treat the documentation as evidence of drying performance."
+    },
+    {
+      "name": "Analytical conclusion",
+      "description": "Based on all reviewed materials and correspondence, Creality documentation functions as consumer usage guidance rather than substantiated drying performance evidence. This conclusion reflects omission and ambiguity, not the presence of conflicting technical claims."
+    },
+    {
+      "name": "Current status",
+      "description": "Documentation review complete. This page will be updated if Creality publishes validated drying data or responds with technical substantiation."
+    }
+  ],
+  "final_thoughts": {
+    "text": "This dossier is maintained as a factual record. Updates are additive and dated. No conclusions are revised without new primary-source documentation.",
+    "call_to_action": "If you have official Creality documents not listed here, please submit them with source and capture date."
+  }
+}
 ]
