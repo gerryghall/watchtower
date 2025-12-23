@@ -328,94 +328,65 @@
   ]
 },
 {
-  "id": "vendor-creality-dryers-and-filament",
+  "id": "filament-dryer-documentation-project",
   "type": "article",
-  "category": "vendor-dossier",
-  "title": "Creality Filament Dryers & Creality Filament — Documentation and Evidence Review",
-  "introduction": "This page documents and analyses Creality’s publicly available documentation and correspondence relating to filament drying, specifically where Creality acts as both filament manufacturer and filament dryer manufacturer. This is a documentation and evidence review only; it does not certify product performance and does not allege product defect.",
+  "category": "project-introduction",
+  "title": "Filament Dryer Documentation Review Project",
+  "introduction": "This project documents and reviews how filament dryer manufacturers describe, justify, and support claims relating to filament drying. It focuses on published documentation and direct vendor correspondence, with the aim of distinguishing general usage guidance from substantiated, evidence-backed performance claims.",
   "meta": {
-    "vendor": "Creality",
-    "status": "complete",
+    "status": "ongoing",
     "last_updated": "2025-12-23",
     "tags": [
-      "creality",
-      "filament-dryer",
-      "creality-filament",
+      "filament-drying",
       "documentation-review",
-      "polymer-drying",
-      "evidence"
+      "polymer-handling",
+      "evidence",
+      "vendor-dossiers"
     ]
   },
   "sections": [
     {
-      "name": "Scope of review",
-      "description": "This review covers Creality-branded filament dryers (including Space Pi–branded models and variants) and Creality-branded filament products (PLA, PETG, ABS, TPU, Nylon where published). Sources include official product pages, user manuals, marketing language, and direct email correspondence with Creality support."
+      "name": "What this project is",
+      "description": "This is a documentation and evidence review project. It records what manufacturers publicly state about filament drying, what supporting data they publish (if any), and how consistent those statements are across product pages, manuals, marketing material, and vendor replies. Each vendor is reviewed using the same structure to ensure consistency."
     },
     {
-      "name": "Products in scope",
+      "name": "What this project is not",
+      "description": "This project does not test or certify hardware, does not allege product defects, and does not make claims about whether a specific product 'works' or 'does not work'. No performance testing is conducted unless explicitly stated and documented. Absence of published evidence is recorded as such and should not be interpreted as proof of non-performance."
+    },
+    {
+      "name": "Why filament drying documentation matters",
+      "description": "Filament drying is frequently recommended for print quality and material handling, yet the term 'dry' is rarely defined. Without published target moisture content, test methodology, or acceptance criteria, users may infer guarantees or limits that are not explicitly supported. Clear documentation helps users operate equipment safely, consistently, and within validated boundaries."
+    },
+    {
+      "name": "How vendors are reviewed",
+      "description": "Each vendor dossier is compiled from publicly available documentation (product listings, manuals, official guidance) and any direct correspondence received from the vendor. Claims are separated from evidence, and gaps are explicitly recorded. All vendors are reviewed using the same framework to avoid selective treatment.",
+      "website": ""
+    },
+    {
+      "name": "Levels of documentation maturity",
+      "description": "During review, vendors tend to fall into broad categories: guidance-only documentation (settings and usage advice), implied-performance documentation (claims without published validation), and evidence-backed documentation (defined targets, test methods, and measured outcomes). These categories describe documentation quality, not product quality."
+    },
+    {
+      "name": "Vendor dossiers",
+      "description": "Each vendor reviewed has a dedicated dossier page that records their published claims, available evidence, correspondence, and current status. These pages are updated only when new primary-source documentation becomes available.",
       "key_features": [
-        "Creality Space Pi Filament Dryer",
-        "Creality Space Pi Plus",
-        "Creality SpacePi X4",
-        "Creality PLA filament",
-        "Creality PETG filament",
-        "Creality ABS filament",
-        "Creality TPU filament",
-        "Creality Nylon filament (where listed)"
-      ],
-      "description": "Only products for which official Creality documentation or correspondence has been reviewed are included."
+        "Creality — Filament Dryers & Filament",
+        "Bambu Lab — Filament Dryers & Documentation",
+        "Additional vendors added over time"
+      ]
     },
     {
-      "name": "Creality filament documentation",
-      "description": "Creality filament product pages typically provide printing temperature ranges, bed temperature ranges, diameter tolerance, and basic storage advice (e.g. keep dry, store sealed). They do not publish target moisture content, moisture absorption data, drying curves, or validated drying procedures for their own filament."
+      "name": "Status and updates",
+      "description": "This project is ongoing. Vendor dossiers may be marked as 'complete', 'awaiting vendor response', or 'no response received'. Updates are additive and dated. Previous statements are not removed; instead, new information is layered on to preserve an accurate historical record."
     },
     {
-      "name": "Creality dryer documentation",
-      "description": "Creality dryer product pages and manuals describe operating temperature ranges, timers, supported filament categories, and features such as PTC heating and humidity display. Dryer manuals provide broad preset temperature guidance by filament type, often grouped across multiple polymers."
-    },
-    {
-      "name": "Filament–dryer linkage (or lack thereof)",
-      "description": "Creality does not publish dryer-specific drying instructions for Creality-branded filament. Dryer manuals explicitly advise users to refer to filament manufacturer recommendations for best results, even where Creality itself is the filament manufacturer. No closed-loop validation between Creality filament and Creality dryers is published."
-    },
-    {
-      "name": "Marketing language and implied expectations",
-      "description": "Marketing and guidance language uses terms such as 'drying', 'supports PLA/Nylon', and 'effective drying'. These terms are not accompanied by a definition of dryness, target moisture content, or measured drying outcomes. This can create implied expectations without technical substantiation."
-    },
-    {
-      "name": "Published evidence review",
-      "description": "Across reviewed Creality documentation, no drying performance validation has been published. This includes the absence of moisture reduction curves, Karl Fischer or equivalent measurements, equilibrium moisture targets, airflow-path validation, boundary conditions (ambient RH/temperature), or repeatability/tolerance data."
-    },
-    {
-      "name": "Documentation tensions and implied contradictions",
-      "description": "Some general guidance references drying temperatures commonly discussed for certain polymers (e.g. ABS or Nylon around ~80°C), while specific dryer models list lower maximum operating temperatures. This represents an implied expectation gap rather than a quantified technical contradiction, as no validated performance claims are made."
-    },
-    {
-      "name": "Vendor correspondence",
-      "description": "Email correspondence with Creality support resulted in the provision of electrical compliance documentation (e.g. CE/LVD/EMC/RoHS). No drying performance validation data, test methodology, or filament-specific moisture targets were provided in response to technical enquiries."
-    },
-    {
-      "name": "What is explicitly not published",
-      "key_features": [
-        "Dryer-validated drying guidance for Creality-branded filament",
-        "Definition of 'dry' or target moisture content",
-        "Measured before/after filament moisture data",
-        "Polymer-specific validated drying limits",
-        "Repeatability or tolerance information"
-      ],
-      "description": "The absence of these items limits the ability to treat Creality documentation as evidence of drying performance rather than general guidance."
-    },
-    {
-      "name": "Analytical conclusion",
-      "description": "Based on all reviewed materials and correspondence, Creality documentation treats filament drying as general consumer guidance. This position does not materially change when Creality acts as both filament manufacturer and dryer manufacturer. The documentation reflects omission and decoupling rather than conflicting technical claims."
-    },
-    {
-      "name": "Current status",
-      "description": "Documentation review complete. This page will be updated if Creality publishes validated drying data, dryer–filament linkage guidance, or responds with technical substantiation."
+      "name": "How to use this information",
+      "description": "Readers are encouraged to use these dossiers as reference material when evaluating filament handling practices, dryer capabilities, and documentation quality. The goal is informed use, not endorsement or rejection of any specific product."
     }
   ],
   "final_thoughts": {
-    "text": "This dossier is maintained as a factual record of published information. Updates are additive and dated, and conclusions are revised only when new primary-source documentation becomes available.",
-    "call_to_action": "If you have official Creality documents or test reports relevant to filament drying, please submit them with source and capture date."
+    "text": "Transparency improves outcomes for users and manufacturers alike. Where vendors publish clear definitions, validated limits, and test methodology, that information is recorded and credited. Where documentation remains guidance-based, that is recorded as well.",
+    "call_to_action": "Browse the vendor dossiers to see how individual manufacturers document filament drying, or submit official documentation for review."
   }
 }
 ]
